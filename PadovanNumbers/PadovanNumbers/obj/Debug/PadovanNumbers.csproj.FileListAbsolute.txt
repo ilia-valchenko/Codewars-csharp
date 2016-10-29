@@ -1,0 +1,6 @@
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\bin\Debug\PadovanNumbers.exe.config
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\bin\Debug\PadovanNumbers.exe
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\bin\Debug\PadovanNumbers.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\obj\Debug\PadovanNumbers.csprojResolveAssemblyReference.cache
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\obj\Debug\PadovanNumbers.exe
+c:\users\ilia\documents\visual studio 2015\Projects\PadovanNumbers\PadovanNumbers\obj\Debug\PadovanNumbers.pdb
