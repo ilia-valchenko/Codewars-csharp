@@ -1,0 +1,6 @@
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\bin\Debug\SimpleFractionToMixedFraction.exe.config
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\bin\Debug\SimpleFractionToMixedFraction.exe
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\bin\Debug\SimpleFractionToMixedFraction.pdb
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\obj\Debug\SimpleFractionToMixedFraction.csprojResolveAssemblyReference.cache
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\obj\Debug\SimpleFractionToMixedFraction.exe
+c:\users\ilya_valchanka\documents\visual studio 2015\Projects\SimpleFractionToMixedFraction\SimpleFractionToMixedFraction\obj\Debug\SimpleFractionToMixedFraction.pdb
