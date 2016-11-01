@@ -4,3 +4,9 @@ c:\users\ilya_valchanka\documents\visual studio 2015\Projects\FindTheSmallest\Fi
 c:\users\ilya_valchanka\documents\visual studio 2015\Projects\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.csprojResolveAssemblyReference.cache
 c:\users\ilya_valchanka\documents\visual studio 2015\Projects\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.exe
 c:\users\ilya_valchanka\documents\visual studio 2015\Projects\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.pdb
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\bin\Debug\FindTheSmallest.exe.config
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.exe
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.pdb
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\bin\Debug\FindTheSmallest.exe
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\bin\Debug\FindTheSmallest.pdb
+G:\GitEpam\Codewars\FindTheSmallest\FindTheSmallest\obj\Debug\FindTheSmallest.csprojResolveAssemblyReference.cache
